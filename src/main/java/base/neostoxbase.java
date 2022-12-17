@@ -12,6 +12,13 @@ System.setProperty("webdriver.chrome.driver", "E:\\Velocity class\\chromedriver.
 		driver=new ChromeDriver();
 		driver.manage().window().maximize();
 		
+		
+		
+		
+		
+		
+		
+		
 		driver.get("https://neostox.com/sign-in");
 		Thread.sleep(1000);
 	}
